@@ -7,4 +7,10 @@
 }
 
 img {
+  width: 80%;
+}
+
+.background p {
+  font-size: 25px;
+  text-align: center;
 }
