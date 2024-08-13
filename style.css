@@ -1,16 +1,22 @@
 .card {
-  width: 400px;
-  height: 600px;
-  background-color: silver;
-  display: flex;
-  align-items: center;
 }
 
 img {
-  width: 80%;
+  width: 25%;
+  display: flex;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 .background p {
   font-size: 25px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
   text-align: center;
 }
